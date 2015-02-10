@@ -96,6 +96,23 @@
 		"twitter": "",
 		"tradingview": "",
 	},
+		"Cryptoleone":{	
+		"tsname": "cryptoleone",  
+		"gender": "m",
+		"country": "NL",
+		"badgeId": 2,
+		"lat": "4.5000",
+		"lng": "51.9167",
+ 		"workstation": "",
+		"selfie": "https://pbs.twimg.com/profile_images/472053572561932288/uhNal0_g.jpeg",
+		"about": "Low volume trader, try to have a life as well. Working a full time job",
+		"interests": ["Bitcoin","Forex","Sailing", "Diving"],
+		"indicators": ["MACD","Ichicloud","Stock RSI", "EMA", "Bollinger bands"],
+		"website": "",
+		"youtube": "",
+		"twitter": "https://twitter.com/Cryptoleone",
+		"tradingview": "Cryptoleone"
+	},
 	"Corleone": {
 		"tsname": "Corleone",
 		"gender": "m",
@@ -148,15 +165,15 @@
 		"tradingview": "",
 	},
 	"jim": {
-		"tsname": "jim",
+		"tsname": "[jim]jim",
 		"gender": "m",
 		"country": "GBR",
-		"badgeid": 1,
+		"badgeid": 2,
 		"lat": "53.785785",
 		"lng": "-2.041874",
-		"about": "Juggle Chart gazing & video editing with part time job. Don't have a sleep schedule",
+		"about": "Juggle Chart gazing & video editing with part time engineering job. Don't have a sleep schedule",
 		"interests": ["Bitcoin","Trading","Sweet bud","Accumulating Bitcoin","The other half"],
-		"indicators": ["Bollinger Bands","EMA's","Pivots","Stoch RSI"],
+		"indicators": ["Bollinger Bands","EMA's","Regular Pivots","Stoch RSI"],
 		"website": "http://www.whaleclub.info",
 		"youtube": "/channel/UCWAsvo5PeXhIphlQI5k3lMQ",
 		"twitter": "JimBitcoin",
@@ -723,23 +740,8 @@
 		"twitter": "",
 		"tradingview": "",
 	},
-	"cryptolene": {
-		"tsname": "cryptolene",
-		"gender": "m",
-		"country": "NLD",
-		"badgeid": 3,
-		"lat": "",
-		"lng": "",
-		"workstation": "",
-		"selfie": "",
-		"about": "",
-		"interests": [""],
-		"indicators": [""],
-		"website": "",
-		"youtube": "",
-		"twitter": "",
-		"tradingview": "",
-	},
+
+
 	"cryptosatoshi": {
 		"tsname": "cryptosatoshi",
 		"gender": "m",
@@ -791,5 +793,7 @@
 		"twitter": "",
 		"tradingview": "",
 	}
+
+
 }
 
